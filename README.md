@@ -85,7 +85,3 @@ lib/
 [GitHub](https://github.com/VipranshOjha)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
